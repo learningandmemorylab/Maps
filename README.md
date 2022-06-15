@@ -1,2 +1,2 @@
 # Maps
-Paper is under preparation, code will be made available shortly.
+Code and example data will be made available shortly.
